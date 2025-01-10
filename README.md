@@ -1,7 +1,7 @@
 # How to Customize Thumb and Divider in the Flutter Slider
 A quick-start example to customize the thumb and divider in the Syncfusion® Flutter Slider widget. You will learn how to customize the slider track, dividers, thumb shape, and directional arrows. 
 
-Watch the video: Coming soon...
+Watch the video: https://www.syncfusion.com/tutorial-videos/flutter/slider?title=how-to-customize-thumb-and-divider-in-the-flutter-slider
 
 Documentation: https://help.syncfusion.com/flutter/slider/getting-started
 
@@ -14,6 +14,6 @@ Documentation: https://help.syncfusion.com/flutter/slider/getting-started
 To run this application, you need to first clone or download the ‘How-to-Customize-Thumb-and-Divider-in-the-Flutter-Slider’ repository and open it in your preferred IDE. Then, build and run your project to view the output.
 
 ## Further help
-For more help, check the [Syncfusion Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview) or
+For more help, check the [Syncfusion® Flutter documentation](https://help.syncfusion.com/flutter/introduction/overview) or
  [Flutter documentation](https://flutter.dev/docs/get-started/install).
 [For more development tools](https://flutter.dev/docs/development/tools/devtools/overview)
